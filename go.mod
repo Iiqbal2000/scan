@@ -3,9 +3,10 @@ module github.com/blockloop/scan/v2
 go 1.17
 
 require (
+	github.com/goccy/go-reflect v1.2.0
 	github.com/proullon/ramsql v0.0.0-20181213202341-817cee58a244
 	github.com/stretchr/testify v1.8.2
-	golang.org/x/text v0.9.0
+	golang.org/x/text v0.10.0
 )
 
 require (

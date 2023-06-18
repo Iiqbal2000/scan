@@ -3,7 +3,7 @@ package scan_test
 import (
 	"database/sql"
 	"errors"
-	"reflect"
+	"github.com/goccy/go-reflect"
 	"sync"
 	"sync/atomic"
 	"testing"

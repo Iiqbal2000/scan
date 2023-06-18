@@ -2,7 +2,7 @@ package scan
 
 import (
 	"fmt"
-	"reflect"
+	"github.com/goccy/go-reflect"
 	"sync"
 )
 

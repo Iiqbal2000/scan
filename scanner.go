@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"errors"
 	"fmt"
+	"github.com/goccy/go-reflect"
 	"io"
-	"reflect"
 
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"
